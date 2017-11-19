@@ -26,10 +26,11 @@ body {
   font-family: 'Libre Baskerville', serif;
   border-bottom: 1px solid #ccc;
   color: rgb(152,173,166);
+  text-decoration:none;
 }
 
 #title a {
-  text-decoration:none;
+
 }
 
 #featured h2 {
